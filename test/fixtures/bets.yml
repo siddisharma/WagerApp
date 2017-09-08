@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  buy_in: 1.5
+  description: MyText
+  start_date: 2017-09-07 21:36:52
+  end_date: 2017-09-07 21:36:52
+  admin_id: 1
+
+two:
+  title: MyString
+  buy_in: 1.5
+  description: MyText
+  start_date: 2017-09-07 21:36:52
+  end_date: 2017-09-07 21:36:52
+  admin_id: 1

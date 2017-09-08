@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Bet:</strong>
+  <%= @payout.bet_id %>
+</p>
+
+<p>
+  <strong>Amount:</strong>
+  <%= @payout.amount %>
+</p>
+
+<p>
+  <strong>Rank:</strong>
+  <%= @payout.rank %>
+</p>
+
+<%= link_to 'Edit', edit_payout_path(@payout) %> |
+<%= link_to 'Back', payouts_path %>
